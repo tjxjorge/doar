@@ -1,2 +1,3 @@
 # doar
-Me faça uma doação.
+Me faça uma doação via pix:
+    chave: 
